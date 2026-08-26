@@ -1,0 +1,6 @@
+{
+  "name": "Çarpım Tablosu Macerası",
+  "description": "Kolaydan zora seviyeli, eğlenceli ve etkileşimli çarpım tablosu öğrenme ve alıştırma oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
